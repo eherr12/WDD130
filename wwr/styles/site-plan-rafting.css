@@ -40,6 +40,8 @@ img {
   display: block;
   margin: 0 auto;
   max-width: 300px;
+  align-items: center;
+  justify-items: left;
 }
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--heading-font);
